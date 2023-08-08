@@ -13,3 +13,4 @@ grid[5][5] = o
 grid[4][5] = o
 grid[4][6] = o
 print(grid)
+
